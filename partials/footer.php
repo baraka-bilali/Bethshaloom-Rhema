@@ -11,7 +11,7 @@
 					<ul class="fh5co-social-icons">
 						<li><a href="#"><i class="icon-twitter2"></i></a></li>
 						<li><a href="#"><i class="icon-facebook2"></i></a></li>
-						<li><a href="#"><i class="icon-dribbble2"></i></a></li>
+						<li><a href="#"><i class="icon-youtube"></i></a></li>
 					</ul>
 				</p>
 			</div>
@@ -26,7 +26,6 @@
 		</footer>
 	</div><!-- END container-wrap -->
 	</div>
-
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
 	</div>
