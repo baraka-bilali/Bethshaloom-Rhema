@@ -27,8 +27,7 @@
 				   			<div class="col-md-6 col-md-offset-3 text-center slider-text">
 				   				<div class="slider-text-inner">
 				   					<h1>A propos</h1>
-										<h2>Suivez-nous sur  <a href="http://freephp5.co/" target="_blank">Facebook</a></h2>
-				   				</div>
+										
 				   			</div>
 				   		</div>
 			   		</div>
@@ -48,8 +47,8 @@
 		
 		<div id="fh5co-about animate-box">
 			<div class="row">
-				<div class="col-md-4 animate-box">
-					<h3>Notre Enseignement</h3>
+				<div class="col-md-4 ml-20px animate-box">
+					<h3 class="title">Notre Enseignement</h3>
 					<blockquote class="dailyVerse animate-box">
 						<p>&ldquo; « Et maintenant, frères, de quelle utilité vous serais-je, si je Venais à vous parlant en langues, et si je ne vous parlais pas par révélation(1), ou par connaissance(2), ou par prophétie(3), ou par doctrine(4) ? » &rdquo;</p>
 						<span>Corinthiens 14:6</span>
@@ -65,35 +64,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="fh5co-counter" class="fh5co-counters fh5co-light-grey">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center animate-box">
-					<p>We have a fun facts far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-					</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2">
-					<div class="row">
-						<div class="col-md-3 col-sm-6 col-xs-6 text-center">
-							<span class="fh5co-counter js-counter" data-from="0" data-to="9452" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Members</span>
-						</div>
-						<div class="col-md-3 col-sm-6 col-xs-6 text-center">
-							<span class="fh5co-counter js-counter" data-from="0" data-to="214" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Ministries</span>
-						</div>
-						<div class="clearfix visible-sm-block visible-xs-block"></div>
-						<div class="col-md-3 col-sm-6 col-xs-6 text-center">
-							<span class="fh5co-counter js-counter" data-from="0" data-to="433" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Classes</span>
-						</div>
-						<div class="col-md-3 col-sm-6 col-xs-6 text-center">
-							<span class="fh5co-counter js-counter" data-from="0" data-to="512" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Activities</span>
-						</div>
-					</div>
-				</div>
-			</div>
+		
 		</div>
 	</div><!-- END container-wrap -->
 
