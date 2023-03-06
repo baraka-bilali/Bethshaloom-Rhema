@@ -69,5 +69,5 @@
 			<div class="top-menu">
 				<div class="row">
 					<div class="col-md-12 col-offset-0 text-center">
-						<div id="fh5co-logo"><a href="index.php"> <img src="images/logo.png" alt=""> </a></div>
+						<div id="fh5co-logo"><a href="index.php"> <img src="images/logo.png" alt="" width="180" height="160"> </a></div>
 					</div>

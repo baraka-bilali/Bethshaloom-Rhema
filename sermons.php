@@ -18,7 +18,7 @@
 		<aside id="fh5co-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li class="slide">
+					<li class="" style="background-image: url(images/bg-5.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">

@@ -1,12 +1,10 @@
-<?php include "partials/header.php" ?>
-		
-
+<?php	include "partials/header.php" ?>
 					<div class="col-md-12 col-md-offset-0 text-center menu-1">
 						<ul>
 							<li><a href="index.php">Acceuil</a></li>
 							<li class="active"><a href="about.php">A propos</a></li>
 							<li><a href="sermons.php">Sermons</a></li>
-							<li><a href="events.php">Evénements</a></li>
+							<li><a href="events.php">Evénements</a></li>			
 							<li><a href="contact.php">Contact</a></li>
 							<li><a href="#" class="donate">En direct</a></li>
 						</ul>
@@ -20,14 +18,15 @@
 		<aside id="fh5co-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li class="slide">
+					<li class="" style="background-image: url(images/bg-5.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-6 col-md-offset-3 text-center slider-text">
 				   				<div class="slider-text-inner">
 				   					<h1>A propos</h1>
-										
+										<!-- <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2> -->
+				   				</div>
 				   			</div>
 				   		</div>
 			   		</div>
@@ -35,16 +34,18 @@
 			  	</ul>
 		  	</div>
 		</aside>
-		
+		<div id="fh5co-sermon">
+			<div class="row">
 
-		<div class="col-md-12  text-center about animate-box" >
-			
-				<h3 class="text2">A propos de nous</h3>
-				<p class="text">Bethsaloom Rhema est une communauté évangélique qui proclame la bonne nouvelle du royaume des cieux sous ses quatre aspects à savoir la Révélation, la connaissance, la prophétie,  et la doctrine, Selon 1 Corinthiens 14 :6, centré sur un seul Seigneur et Sauveur Jésus-Christ. Elle compte actuellement 2 Assemblées locales (à l’Etat Indiana, aux Etats Unis d’Amérique et à Kinshasa, en République Démocratique du Congo). Joao Vakanda Tussevo en est le porteur  principal. Bethsaloom Rhema diffuse ses Cultes en direct sur internet (Facebook) tous les dimanches à partir de 12 h30’ (heure d’Indiana, Etats unis).</p>
-			
+				<div class="col-md-12  text-center about animate-box" >
+				
+					<h3 class="text2">A propos de nous</h3>
+					<p class="text">Bethsaloom Rhema est une communauté évangélique qui proclame la bonne nouvelle du royaume des cieux sous ses quatre aspects à savoir la Révélation, la connaissance, la prophétie,  et la doctrine, Selon 1 Corinthiens 14 :6, centré sur un seul Seigneur et Sauveur Jésus-Christ. Elle compte actuellement 2 Assemblées locales (à l’Etat Indiana, aux Etats Unis d’Amérique et à Kinshasa, en République Démocratique du Congo). Joao Vakanda Tussevo en est le porteur  principal. Bethsaloom Rhema diffuse ses Cultes en direct sur internet (Facebook) tous les dimanches à partir de 12 h30’ (heure d’Indiana, Etats unis).</p>
+				
+				</div>
+			</div>
 		</div>
 
-		
 		<div id="fh5co-about animate-box">
 			<div class="row">
 				<div class="col-md-4 ml-20px animate-box">
@@ -65,7 +66,6 @@
 			</div>
 		</div>
 		
-		</div>
 	</div><!-- END container-wrap -->
 
-	<?php include "partials/footer.php" ?>
+	<?php	include "partials/footer.php" ?>

@@ -3,7 +3,7 @@
 
 					<div class="col-md-12 col-md-offset-0 text-center menu-1">
 						<ul>
-							<li class="active"><a href="index.html">Acceuil</a></li>
+							<li class="active"><a href="index.php">Acceuil</a></li>
 							<li><a href="about.php">A propos</a></li>
 							<li><a href="sermons.php">Sermons</a></li>
 							<li><a href="events.php">Evénements</a></li>	
