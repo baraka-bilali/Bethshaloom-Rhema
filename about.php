@@ -40,7 +40,7 @@
 				<div class="col-md-12  text-center about animate-box" >
 				
 					<h3 class="text2">A propos de nous</h3>
-					<p class="text">Bethsaloom Rhema est une communauté évangélique qui proclame la bonne nouvelle du royaume des cieux sous ses quatre aspects à savoir la Révélation, la connaissance, la prophétie,  et la doctrine, Selon 1 Corinthiens 14 :6, centré sur un seul Seigneur et Sauveur Jésus-Christ. Elle compte actuellement 2 Assemblées locales (à l’Etat Indiana, aux Etats Unis d’Amérique et à Kinshasa, en République Démocratique du Congo). Joao Vakanda Tussevo en est le porteur  principal. Bethsaloom Rhema diffuse ses Cultes en direct sur internet (Facebook) tous les dimanches à partir de 12 h30’ (heure d’Indiana, Etats unis).</p>
+					<p class="text5">Bethsaloom Rhema est une communauté évangélique qui proclame la bonne nouvelle du royaume des cieux sous ses quatre aspects à savoir la Révélation, la connaissance, la prophétie,  et la doctrine, Selon 1 Corinthiens 14 :6, centré sur un seul Seigneur et Sauveur Jésus-Christ. Elle compte actuellement 2 Assemblées locales (à l’Etat Indiana, aux Etats Unis d’Amérique et à Kinshasa, en République Démocratique du Congo). Joao Vakanda Tussevo en est le porteur  principal. Bethsaloom Rhema diffuse ses Cultes en direct sur internet (Facebook) tous les dimanches à partir de 12 h30’ (heure d’Indiana, Etats unis).</p>
 				
 				</div>
 			</div>
@@ -55,7 +55,7 @@
 						<span>Corinthiens 14:6</span>
 					</blockquote>
 				</div>
-				<div class="col-md-8 animate-box" style="font-size:16px" >
+				<div class="col-md-7 animate-box text5" style="font-size:16px" >
 						<br><br>
 						<li><i class="icon-check"></i>Révélation: Psaumes 119 :130 La révélation de tes paroles éclaire,  Elle donne de l’intelligence aux simples.</li>
 						<li><i class="icon-check"></i>Connaissance : Jean 17 :3 Or, la vie éternelle, c’est qu’ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus Christ.</li>
