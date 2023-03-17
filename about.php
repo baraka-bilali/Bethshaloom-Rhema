@@ -47,7 +47,7 @@
 		</div>
 
 		<div id="fh5co-about animate-box">
-			<div class="row">
+			<div class="row abouts">
 				<div class="col-md-4 ml-20px animate-box">
 					<h3 class="title">Notre Enseignement</h3>
 					<blockquote class="dailyVerse animate-box">
@@ -64,7 +64,7 @@
 					</ul>
 				</div>
 			</div>
-		</div>
+		</div> <br><br><br><br>
 		
 	</div><!-- END container-wrap -->
 

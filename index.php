@@ -27,7 +27,7 @@
 				   			<div class="col-md-6 col-md-offset-3 text-center">
 				   				<div class="slider-text">
 					   				<div class="slider-text-inner">
-					   					<h1 style="font-size: 31px;">Assemblée Chrétienne BETHSAIDE</h1>
+					   					<h1 style="font-size: 31px;">Eglise Bethsaloom Rhema</h1>
 											<h2>SAINE DOCTRINE</h2>
 											<p><a class="btn btn-primary btn-demo popup-vimeo" href="https://vimeo.com/channels/staffpicks/93951774"> <i class="icon-play4"></i> Voir nos vidéos</a> <a class="btn btn-primary btn-learn">Suivez-nous !<i class="icon-arrow-right3"></i></a></p>
 					   				</div>
@@ -42,7 +42,7 @@
 		<div id="fh5co-intro">
 			<div class="row animate-box">
 				<div class="col-md-12 col-md-offset-0 text-center">
-					<h2>Vivre dans l'incroyable grâce de Dieu !</h2>
+					<h2>Maison de paix et de révélation.</h2>
 					<span>Nous sommes ouvert du lundi au dimanche</span>
 				</div>
 			</div>

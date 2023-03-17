@@ -4,7 +4,7 @@
 				<h3>Indiana, 730 Coldwater Way #100, Zip: 46168</h3>
 			</div>
 			<div class="col-md-4 text-center">
-				<h2><a href="#"> <img src="images/logo.png" alt="" width="180" height="160"> </a></h2>
+				<h2><a href="#"> <img src="images/logo.png" alt="" width="160" height="165"> </a></h2>
 			</div>
 			<div class="col-md-4 text-center">
 				<p>
