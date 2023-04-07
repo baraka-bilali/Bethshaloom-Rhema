@@ -2,7 +2,7 @@
 		
 
 					<div class="col-md-12 col-md-offset-0 text-center menu-1">
-						<ul>
+						<ul class="links">
 							<li class="active"><a href="index.php">Acceuil</a></li>
 							<li><a href="about.php">A propos</a></li>
 							<li><a href="sermons.php">Sermons</a></li>
@@ -27,7 +27,7 @@
 				   			<div class="col-md-6 col-md-offset-3 text-center">
 				   				<div class="slider-text">
 					   				<div class="slider-text-inner">
-					   					<h1 style="font-size: 31px;">Eglise Bethsaloom Rhema</h1>
+					   					<h1 style="font-size: 31px;">Eglise Bethshaloom Rhema</h1>
 											<h2>SAINE DOCTRINE</h2>
 											<p><a class="btn btn-primary btn-demo popup-vimeo" href="https://vimeo.com/channels/staffpicks/93951774"> <i class="icon-play4"></i> Voir nos vidéos</a> <a class="btn btn-primary btn-learn">Suivez-nous !<i class="icon-arrow-right3"></i></a></p>
 					   				</div>
@@ -53,8 +53,8 @@
 		<div id="fh5co-services" class="fh5co-light-grey">
 			<div class="row animate-box">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Services</h2>
-					<p>Voici les Différents Services que nous offrons dans l'église</p>
+					<h2>Nos Services</h2>
+					<p>Voici les Différents Services que nous organisons dans l'église</p>
 				</div>
 			</div>
 			<div class="row">

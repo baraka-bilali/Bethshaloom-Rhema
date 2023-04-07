@@ -13,10 +13,10 @@
 body {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.7;
   color: gray;
-  background: url(../images/body-bg.png) repeat fixed;
+  background-color:#444;
 }
 .slide{
   background-image: url(../images/img_bg.jpg);
@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav #fh5co-logo {
   background: url('../images/bg-primary.png'), no-repeat;
   background-size: cover;
-  font-size: 45px;
+  font-size: 0px;
   margin: 0;
   padding: 1em 0;
   font-family: "Libre Baskerville", serif;
@@ -157,6 +157,9 @@ h1, h2, h3, h4, h5, h6, figure {
   .fh5co-nav .menu-1 {
     display: none;
   }
+  .links{
+    font-size: 25px;
+  }
 }
 .fh5co-nav ul {
   padding: 20px 0;
@@ -172,6 +175,8 @@ h1, h2, h3, h4, h5, h6, figure {
   letter-spacing: 2px;
   font-weight: 600;
 }
+
+
 .fh5co-nav ul li a {
   position: relative;
   font-size: 13px;
