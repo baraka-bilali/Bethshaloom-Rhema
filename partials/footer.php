@@ -4,13 +4,13 @@
 				<h3>Indiana, 730 Coldwater Way #100, Zip: 46168</h3>
 			</div>
 			<div class="col-md-4 text-center">
-				<h2><a href="#"> <img src="images/logo.png" alt="" width="160" height="165"> </a></h2>
+				<h2><a href="#"> <img src="images/logo.png" alt="" width="100" height="105"> </a></h2>
 			</div>
 			<div class="col-md-4 text-center">
 				<p>
 					<ul class="fh5co-social-icons">
 						<li><a href="#"><i class="icon-twitter2"></i></a></li>
-						<li><a href="#"><i class="icon-facebook2"></i></a></li>
+						<li><a href="https://mobile.facebook.com/story.php?story_fbid=575636977872848&id=100020917387438&sfnsn=mo&mibextid=RUbZ1f&_rdc=1&_rdr"><i class="icon-facebook2"></i></a></li>
 						<li><a href="#"><i class="icon-youtube"></i></a></li>
 					</ul>
 				</p>

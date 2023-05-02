@@ -6,7 +6,7 @@
 		<title>Bethshaloom Rhema &mdash; church </title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Bethshaloom" />
-		<meta name="keywords" content="Bethshaloom, church, eglise, mission, free website template, html5, css3, mobile first, responsive" />
+		<meta name="keywords" content="Bethshaloom, church, eglise, mission, organisation, bible" />
 		<meta name="author" content="Bethshaloom" />
 
 		<!-- 
