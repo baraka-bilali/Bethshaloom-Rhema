@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<title>Bethshaloom Rhema &mdash; church </title>
@@ -8,14 +9,13 @@
 		<meta name="description" content="Bethshaloom" />
 		<meta name="keywords" content="Bethshaloom, church, eglise, mission, organisation, bible" />
 		<meta name="author" content="Bethshaloom" />
+		<link rel="icon" type="image/png" href="../images/logo.png">
+		<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<!------ Include the above in your HEAD tag ---------->
 
-		<!-- 
-		//////////////////////////////////////////////////////
-
-
-
-		//////////////////////////////////////////////////////
-		-->
+		
 
 		<!-- Facebook and Twitter integration -->
 		<meta property="og:title" content=""/>
@@ -53,10 +53,10 @@
 
 		<!-- Modernizr JS -->
 		<script src="js/modernizr-2.6.2.min.js"></script>
-		<!-- FOR IE9 below -->
-		<!--[if lt IE 9]>
-		<script src="js/respond.min.js"></script>
-		<![endif]-->
+
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+		
+		
 
 	</head>
 	<body>

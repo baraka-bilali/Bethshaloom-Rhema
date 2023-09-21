@@ -34,19 +34,97 @@
 			  	</ul>
 		  	</div>
 		</aside>
+		
 		<div id="fh5co-sermon">
 			<div class="row">
 
 				<div class="col-md-12  text-center about animate-box" >
 				
 					<h3 class="text2">A propos de nous</h3>
-					<p class="text5">Bethsaloom Rhema est une communauté évangélique qui proclame la bonne nouvelle du royaume des cieux sous ses quatre aspects à savoir la Révélation, la connaissance, la prophétie,  et la doctrine, Selon 1 Corinthiens 14 :6, centré sur un seul Seigneur et Sauveur Jésus-Christ. Elle compte actuellement 2 Assemblées locales (à l’Etat Indiana, aux Etats Unis d’Amérique et à Kinshasa, en République Démocratique du Congo). Joao Vakanda Tussevo en est le porteur  principal. Bethsaloom Rhema diffuse ses Cultes en direct sur internet (Facebook) tous les dimanches à partir de 12 h30’ (heure d’Indiana, Etats unis).</p>
+					<p class="text5" style="font-size: 16px; color:#403D3D">Bethsaloom Rhema est une communauté évangélique qui proclame la bonne nouvelle du royaume des cieux sous ses quatre aspects à savoir la Révélation, la connaissance, la prophétie,  et la doctrine, Selon 1 Corinthiens 14 :6, centré sur un seul Seigneur et Sauveur Jésus-Christ. Elle compte actuellement 2 Assemblées locales (à l’Etat Indiana, aux Etats Unis d’Amérique et à Kinshasa, en République Démocratique du Congo). Joao Vakanda Tussevo en est le porteur  principal. Bethsaloom Rhema diffuse ses Cultes en direct sur internet (Facebook) tous les dimanches à partir de 12 h30’ (heure d’Indiana, Etats unis).</p>
+				
+				</div>
+			</div>
+		</div>
+		<div id="fh5co-sermon" >
+			<div class="row">
+
+				<div class="col-md-12  text-center about animate-box" >
+				
+					<h3 class="text2">Nos Valeurs</h3>
+					
+				
+				</div>
+			</div>
+		</div>
+		<div id="fh5co-services" class="fh5co-light" class="fh5co-light" style="background: url('images/bg_2.jpg') no-repeat center; background-size: cover;background-attachment: fixed; ">
+			<div class="background-filter">
+			
+			</div>
+			<div class="row">
+			<div class="col-md-3 animate-box">
+					<div class="services">
+						
+						<div class="desc">
+							<h3 ><a href="#" style="color : #FFF; font-size:30px; ">Connaissance</a></h3>
+							<em style="color : #FFF; font-size:18px">Jean 17 :3</em>
+							<p style="color : #FFF; font-size: 18px">Or, la vie éternelle, c’est qu’ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus Christ</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 animate-box">
+					<div class="services">
+						
+						<div class="desc">
+							<h3><a href="#" style="color : #FFF; font-size:30px; " >Doctrine</a></h3>
+							<em style="color : #FFF">Psaumes 119 :130</em>
+							<p style="color : #FFF; font-size: 16px">Tite 2 :1 Pour toi, dis les choses qui sont conformes à la sainte doctrine. Ces aspects de l’enseignement ont pour buts de montrer aux croyants... </p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 animate-box">
+					<div class="services">
+						
+						<div class="desc">
+							<h3><a href="#"  style="color : #FFF; font-size:30px; ">Révélation</a></h3>
+							<em style="color : #FFF">Psaumes 119 :130</em>
+							<p style="color : #FFF; font-size: 16px">La révélation de tes paroles éclaire,  Elle donne de l’intelligence aux simples.</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 animate-box">
+					<div class="services">
+						
+						<div class="desc">
+							<h3><a href="#"  style="color : #FFF; font-size:30px; ">Prophétie </a></h3>
+							<em style="color : #FFF">Actes 10 :43</em>
+							<p style="color : #FFF; font-size: 16px">Tous les prophètes rendent de lui le témoignage que quiconque croit en lui reçoit par son nom le pardon des péchés.</p>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<div id="fh5co-sermon">
+			<div class="row">
+
+				<div class="col-md-12  text-center about animate-box" >
+				
+					<h3 class="text2">Notre Enseignement</h3>
+					<p class="text5" style="font-size: 16px; color:#403D3D">Et maintenant, frères, de quelle utilité vous serais-je, si je Venais à vous parlant en langues, et si je ne vous parlais pas par révélation(1), ou par connaissance(2), ou par prophétie(3), ou par doctrine(4) ? » &rdquo;</p>
+						<span>Corinthiens 14:6</p>
 				
 				</div>
 			</div>
 		</div>
 
-		<div id="fh5co-about animate-box">
+		
+		<!-- <div id="fh5co-about animate-box">
 			<div class="row abouts">
 				<div class="col-md-4 ml-20px animate-box">
 					<h3 class="title">Notre Enseignement</h3>
@@ -66,6 +144,6 @@
 			</div>
 		</div> <br><br><br><br>
 		
-	</div><!-- END container-wrap -->
+	</div>END container-wrap -->
 
 	<?php	include "partials/footer.php" ?>
